@@ -28,10 +28,6 @@ This repository contains the source code for a simple weather application. The a
     ```
 3. Open `index.html` in your preferred web browser to view the app.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any questions or feedback, feel free to contact me at hritickjha@example.com.
